@@ -3,7 +3,8 @@
     --bg-color: #000000;
     --text-color: #f0f0f0;
     --accent-color: #00BCD4; /* Electric Cyan/Aqua */
-    --hover-color: #4dc2f8; 
+    --hover-color: #4dc2f8;
+    --gradient-bg: linear-gradient(135deg, #000000, #001f33); 
     --secondary-bg: #1a1a1a;
     --tertiary-bg: #0d0d0d;
     --border-radius: 12px;
@@ -18,7 +19,8 @@
     box-sizing: border-box;
 }
 body {
-    background-color: var(--bg-color);
+    background: var(--gradient-bg);
+    color: #f0f0f0;
     color: var(--text-color);
     font-family: 'Poppins', sans-serif;
     line-height: 1.6;
