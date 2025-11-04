@@ -2,7 +2,7 @@
 :root {
     --bg-color: #000000;
     --text-color: #f0f0f0;
-    --accent-color: #00BCD4; /* Electric Cyan/Aqua */
+    --accent-color: #00ffff; 
     --hover-color: #4dc2f8;
     --gradient-bg: linear-gradient(135deg, #000000, #001f33); 
     --secondary-bg: #1a1a1a;
@@ -190,7 +190,7 @@ nav {
 }
 .social-icons a:hover {
     color: var(--accent-color);
-    text-shadow: 0 0 8px var(--accent-color);
+    
 }
 .hero-buttons {
     display: flex;
@@ -488,6 +488,7 @@ footer {
 }
 .footer-links a:hover {
     color: var(--accent-color);
+    box-shadow: 0 0 10px var(--accent-color);
 }
 footer p {
     font-size: 0.8rem;
