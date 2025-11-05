@@ -99,6 +99,8 @@ Kemudian branch `feature-styling` dihapus karena sudah digabung:
 
 Hasil merge berhasil tanpa konflik dan tampilan baru langsung diterapkan di branch utama. Gambar menunjukkan proses merge dan penghapusan branch yang sukses.
 
+---
+
 ### Langkah 7 : Menambahkan Remote dan Push ke GitHub
 Tahap selanjutnya yaitu menghubungkan repository lokal ke GitHub dengan perintah:
 
@@ -112,15 +114,19 @@ Tahap selanjutnya yaitu menghubungkan repository lokal ke GitHub dengan perintah
 <img width="419" height="45" alt="image" src="https://github.com/user-attachments/assets/a15368aa-7dcd-4eac-b289-e0a97200662b" />
 Perintah tersebut mengunggah seluruh commit ke repository GitHub agar proyek dapat diakses secara online.  
 
+---
+
 ### Langkah 8 : Membuat folder TA2 dan memindahkan file (README.md, style.css, dan index.html) kedalam folder TA2
 
 <img width="440" height="43" alt="image" src="https://github.com/user-attachments/assets/540a3923-0a72-4084-a027-9d0ede216b2e" />
 <img width="511" height="509" alt="image" src="https://github.com/user-attachments/assets/f1ca04ef-37b6-45df-996a-412b08975df5" />
 
+---
 
-##Berikut adalah kumpulan commit yang dilakukan:
+## Berikut adalah kumpulan commit yang dilakukan:
 
 <img width="535" height="138" alt="image" src="https://github.com/user-attachments/assets/790f144d-d153-4547-91b1-a5627ed0b217" />
+
 
 
 
