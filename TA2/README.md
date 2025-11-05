@@ -39,6 +39,7 @@ Perintah ini digunakan untuk menampilkan daftar konfigurasi nama pengguna (`user
 Setelah konfigurasi benar, akan dilakukan inisialisasi repository lokal. Namun, sebelum itu dilakukan cd untuk ke  file tempat menyimpan file index.html dan style.css yang akan dilakukan commit nantinya.
 
 <img width="421" height="41" alt="image" src="https://github.com/user-attachments/assets/6a3bbda1-6008-4a47-a22e-0d836eafc62c" />
+
 <img width="410" height="40" alt="image" src="https://github.com/user-attachments/assets/d193bed5-c7fc-49b1-bfe3-63a7024bfded" />
 
 Dapat dilihat bahwa inisialisasi  sudah berhasil dilakukan.
@@ -50,6 +51,7 @@ Selanjutnya dibuat file `index.html` berisi struktur dasar halaman portofolio (h
 File ini ditambahkan ke Git dan dilakukan commit pertama:
 
 <img width="422" height="66" alt="image" src="https://github.com/user-attachments/assets/b593a430-e7d9-4c75-afde-5b496fcb1db6" />
+
 <img width="421" height="117" alt="image" src="https://github.com/user-attachments/assets/35fc9e3b-f4fa-4fde-a051-449912d1d067" />
 
 Disini  digunakan perintah `git status` untuk memastikan repository sudah siap digunakan dan dapat dilihat bahwa status repository masih kosong.
@@ -59,6 +61,7 @@ Disini  digunakan perintah `git status` untuk memastikan repository sudah siap d
 Commit ini menjadi titik awal versi pertama proyek. Kemudian dapat dilihat bahwa commit pertama berhasil  dibuat.
 
 <img width="377" height="32" alt="image" src="https://github.com/user-attachments/assets/53381db0-e907-48f9-bf82-c96ff496bb3b" />
+
 <img width="378" height="84" alt="image" src="https://github.com/user-attachments/assets/41ff672b-5208-4a55-8744-5677625d56e5" />
 
 Disini terjadi commit kedua dan ketiga yang sudah berhasil dilakukan berdasarkan gambar.
@@ -80,6 +83,7 @@ Dapat dilihat bahwa commit keempat untuk  style.css berhasil dilakukan.
 Untuk mencoba desain baru tanpa mengubah branch utama, dibuat branch baru bernama `feature-styling`. Di branch ini dilakukan perubahan pada `style.css` seperti mengganti warna aksen dan menambahkan efek hover pada elemen proyek. Commit  dilakukan dengan pesan `update style baru dan animasi hover proyek`.
 
 <img width="378" height="128" alt="image" src="https://github.com/user-attachments/assets/1d0b7204-fb59-462a-9d0e-467a00d75eb4" />
+
 <img width="415" height="49" alt="image" src="https://github.com/user-attachments/assets/8da86b17-edd3-46e1-9008-ee61d71fce78" />
 
 Gambar menunjukkan pembuatan branch baru dan hasil commit di branch tersebut.
@@ -105,13 +109,21 @@ Hasil merge berhasil tanpa konflik dan tampilan baru langsung diterapkan di bran
 Tahap selanjutnya yaitu menghubungkan repository lokal ke GitHub dengan perintah:
 
 <img width="420" height="28" alt="image" src="https://github.com/user-attachments/assets/85681992-3694-4e4a-8034-94f03768f845" />
+
 <img width="420" height="28" alt="image" src="https://github.com/user-attachments/assets/85681992-3694-4e4a-8034-94f03768f845" />
+
 <img width="419" height="30" alt="image" src="https://github.com/user-attachments/assets/edb6d37e-1149-4622-978a-550fdaa17a83" />
+
 <img width="420" height="50" alt="image" src="https://github.com/user-attachments/assets/13145d6e-e4f1-4805-985c-70b9cea3b7c7" />
+
 <img width="419" height="52" alt="image" src="https://github.com/user-attachments/assets/335f7330-a3fa-4cd0-81b1-b81d3f45b2e1" />
+
 <img width="419" height="93" alt="image" src="https://github.com/user-attachments/assets/658d4fe1-004e-4b56-ac7e-f68230a96f42" />
+
 <img width="423" height="138" alt="image" src="https://github.com/user-attachments/assets/157cbfba-f32e-4b09-9eed-ee06d54fa835" />
+
 <img width="419" height="45" alt="image" src="https://github.com/user-attachments/assets/a15368aa-7dcd-4eac-b289-e0a97200662b" />
+
 Perintah tersebut mengunggah seluruh commit ke repository GitHub agar proyek dapat diakses secara online.  
 
 ---
@@ -119,6 +131,7 @@ Perintah tersebut mengunggah seluruh commit ke repository GitHub agar proyek dap
 ### Langkah 8 : Membuat folder TA2 dan memindahkan file (README.md, style.css, dan index.html) kedalam folder TA2
 
 <img width="440" height="43" alt="image" src="https://github.com/user-attachments/assets/540a3923-0a72-4084-a027-9d0ede216b2e" />
+
 <img width="511" height="509" alt="image" src="https://github.com/user-attachments/assets/f1ca04ef-37b6-45df-996a-412b08975df5" />
 
 ---
@@ -126,6 +139,7 @@ Perintah tersebut mengunggah seluruh commit ke repository GitHub agar proyek dap
 ## Berikut adalah kumpulan commit yang dilakukan:
 
 <img width="535" height="138" alt="image" src="https://github.com/user-attachments/assets/790f144d-d153-4547-91b1-a5627ed0b217" />
+
 
 
 
